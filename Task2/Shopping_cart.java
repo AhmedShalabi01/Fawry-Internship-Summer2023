@@ -15,7 +15,7 @@ public class Shopping_cart
     
     public Shopping_cart()
     {
-        this.items=new ArrayList<>();
+        this.items = new ArrayList<>();
     }
     
     void addItem(Product product)
