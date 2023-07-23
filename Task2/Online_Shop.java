@@ -21,7 +21,7 @@ public class Online_Shop {
         cart.addItem(pro2);
         cart.addItem(pro3);
         
-        Order_processing order =new Order_processing();
+        Order_processing order = new Order_processing();
         order.placeOrder(cart);
         
         
