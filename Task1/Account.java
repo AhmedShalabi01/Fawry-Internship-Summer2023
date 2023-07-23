@@ -13,7 +13,7 @@ public class Account
     String accountHolderName;
     int accountNumber;
     double balance;
-    public Account(String accountHolderName, int accountNumber  )
+    public Account(String accountHolderName, int accountNumber)
     {
         this.accountNumber=accountNumber;
         this.accountHolderName=accountHolderName;
@@ -64,9 +64,9 @@ public class Account
         }
     }
     int getAccountNumber()
-        {
-            return accountNumber;
-        }
+    {
+        return accountNumber;
+    }
     String getAccountName()
     {
         return accountHolderName;
