@@ -17,7 +17,7 @@ public class Main {
 
          String accountNameMessage = "Please enter the account holder Name.";
 
-        Bank bank = new Bank();
+         Bank bank = new Bank();
 
         while(true)
         {
