@@ -118,6 +118,3 @@ The Product Application follows a standard Spring MVC (Model-View-Controller) ar
 
 These files and Java classes collectively create a functional product management application. The JSP files provide user interfaces for managing products, while the Java classes handle data operations and business logic.
 
-Feel free to adapt and customize these files and classes to suit the specific requirements of your application. If you have any questions or need further assistance, please don't hesitate to reach out.
-
-If there are more sections or details you'd like to add to this README or if you have specific modifications, please let me know, and I'll be happy to assist further.
