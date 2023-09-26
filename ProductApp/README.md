@@ -122,6 +122,17 @@ The Product Application follows a standard Spring MVC (Model-View-Controller) ar
 
 These files and Java classes collectively create a functional product management application. The JSP files provide user interfaces for managing products, while the Java classes handle data operations and business logic.
 
-Feel free to adapt and customize these files and classes to suit the specific requirements of your application. If you have any questions or need further assistance, please don't hesitate to reach out.
+## Output
+![1](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/15daeff0-44a6-4f80-8fdd-35fb1cf7cb9f)
+![2](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/00e7e39c-e35a-4c1d-8576-321aa8dea7b1)
+![3](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/22f7f9e8-9a5c-4fc3-81d3-0539c9586d13)
+![4](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/2b80414d-d92c-42e7-ab2a-a8fc6f53b984)
+![5](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/e0f9c3c3-0929-4f97-a1ad-89ade28bf4d2)
+![6](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/7ac82818-63d0-44a7-8d5c-bbd285a02d9d)
+![7](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/21529751-1758-4f0f-b3ef-38c9e3e3c280)
+![8](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/17cf7be7-d4ae-4052-a39e-d5d81f4fff18)
+![9](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/ad9d4e8b-78c5-4fd9-87e7-219e85632e6c)
+![10](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/325dc7fb-9010-467a-8298-4600c63a8924)
+![11](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/9cb6dfce-f1a0-4fcd-ac07-fb1cb4243370)
 
-If there are more sections or details you'd like to add to this README or if you have specific modifications, please let me know, and I'll be happy to assist further.
+
