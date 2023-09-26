@@ -12,6 +12,10 @@
 
 ## Introduction
 
+## ERD
+![ERD](https://github.com/AhmedShalabi01/Fawry-Internship-Summer2023/assets/119356507/de5b3fdb-23f0-44b6-89f4-bc308c3433ac)
+
+
 Welcome to the Product Application README. This document provides a comprehensive overview of the Product Application, its architecture, components, and detailed explanations of each file and Java class. The Product Application allows users to manage products, including adding, updating, and deleting them.
 
 ## Architecture
