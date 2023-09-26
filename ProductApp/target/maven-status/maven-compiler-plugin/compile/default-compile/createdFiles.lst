@@ -1,9 +1,0 @@
-com\productapp\productapptask2\service\ProductService.class
-com\productapp\productapptask2\model\ProductModel.class
-com\productapp\productapptask2\mapper\ProductMapperImpl.class
-com\productapp\productapptask2\config\ProductConfig.class
-com\productapp\productapptask2\controller\ProductController.class
-com\productapp\productapptask2\ProductAppTask2Application.class
-com\productapp\productapptask2\repo\ProductRepository.class
-com\productapp\productapptask2\mapper\ProductMapper.class
-com\productapp\productapptask2\entity\Product.class
